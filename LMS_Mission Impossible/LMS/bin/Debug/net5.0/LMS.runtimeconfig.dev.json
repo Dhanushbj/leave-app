@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tunir\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tunir\\.nuget\\packages"
+    ]
+  }
+}
